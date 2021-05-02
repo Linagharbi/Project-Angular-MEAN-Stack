@@ -1,5 +1,20 @@
 # ProjectAngularMEANStack
 
+An Angular CRUD web application from scratch with MongoDB, Express js, Node js, and Angular Material UI library.
+
+In this CRUD app user will be able to perform the following tasks:
+
+*Add student ID
+*Add student name
+*Add student email
+*Add section Angular Material dropdown
+*Add multiple subjects using Angular material input chips
+*Add student’s gender using Angular material radio buttons
+*Add student date of birth using Angular material datepicker
+
+
+# ProjectAngularMEANStack
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
 
 ## Development server
